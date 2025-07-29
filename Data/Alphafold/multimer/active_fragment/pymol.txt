@@ -1,0 +1,1 @@
+load G:/alphafold/multimer/active_fragment/SAR1A_SEC23_SEC31A_Iso1_activeFragment_multimer/ranked_0
